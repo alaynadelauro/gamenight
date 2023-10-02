@@ -1,0 +1,10 @@
+/* BASIC STYLES HERE */
+body{
+    background-color:black;
+    color:goldenrod;
+}
+
+.profileImg{
+    border-radius:10%;
+}
+
